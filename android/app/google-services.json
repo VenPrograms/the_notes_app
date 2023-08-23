@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137901497582",
+    "project_id": "thenotesapp-e174e",
+    "storage_bucket": "thenotesapp-e174e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137901497582:android:9d0e908be11c44342ce7ff",
+        "android_client_info": {
+          "package_name": "com.vendex.the_notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137901497582-jclhkkjacb7bnjldt801kgm00ulptm4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vendex.the_notes_app",
+            "certificate_hash": "4b3849e87a5896f777918a1f6c52c42cf2fa0b02"
+          }
+        },
+        {
+          "client_id": "137901497582-stl6putsfppciq9jo8ap3duavvcgsb9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2iIhhuwZkZFCw9j51usDeZ8AkfP7ZMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137901497582-stl6putsfppciq9jo8ap3duavvcgsb9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
